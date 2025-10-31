@@ -1,0 +1,28 @@
+body {
+    background: #2c2c2c;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 , h2, h3 {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    vertical-align: middle;
+    margin-right: 8px;
+    border-radius: 4px;
+}
+
+
+.footer div {
+    background-color: #d1485e;
+    color: white;
+}
